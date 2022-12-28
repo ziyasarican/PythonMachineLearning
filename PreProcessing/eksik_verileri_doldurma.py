@@ -1,3 +1,5 @@
+# Eksik olan sayısal veri içeren sütunlardaki verileri, kalan verilerin ortalaması ile doldurma.
+
 import pandas as pd
 import numpy as np
 df = pd.read_csv("/Users/ziyasarican/Desktop/eksikveriler.csv")
